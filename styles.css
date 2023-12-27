@@ -1,0 +1,34 @@
+table {
+  border: 2px solid #884dff;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  box-shadow: 0 4px 8px #00000033, 0 6px 20px #00000030;
+}
+input {
+  border: 2px solid #9966ff;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: 'Trebuchet MS';
+  color: #7733ff;
+  padding: 6px;
+}
+input:focus {
+  outline: none;
+}
+button {
+  border: 2px solid #9966ff;
+  border-radius: 5px;
+  font-size: 12pt;
+  font-family: 'Trebuchet MS';
+  color: #7733ff;
+  cursor: pointer;
+}
+.btns:hover {
+  background-color: #d9d9d9;
+}
+button:active {
+  font-size: 10pt;
+}
+#eqbtn {
+  height: 65px;
+}
