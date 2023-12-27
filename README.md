@@ -13,7 +13,7 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. It em
 
 ## Usage
 1. Clone the repository to your local machine.
-2. Open `index.html` in your preferred web browser.
+2. Open [index.html](./index.html) in your preferred web browser.
 3. Start performing calculations!
 
 Feel free to explore the code and make any enhancements or modifications as needed.
