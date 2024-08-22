@@ -23,7 +23,7 @@ Feel free to explore the code and make any enhancements or modifications as need
 - `script`: Holds the JavaScript code for calculator functionality.
 - `index.html`: The main HTML file.
 
-## Credits
-- Abdullah Ansari
+## Authors
 
-Happy coding!
+- [@aibiansari](https://www.github.com/aibiansari)
+
